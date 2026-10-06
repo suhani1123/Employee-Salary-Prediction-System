@@ -1,0 +1,201 @@
+Experience,Education,Skills,Department,Age,Salary
+4.7,Diploma,Java;Machine Learning;SQL;Python,Technical Trainers,26,667000
+5.4,Bachelors,CRM;Digital Marketing;Communication;Sales,Sales & Marketing,28,540000
+12.0,MBA,Negotiation;CRM;Excel;Communication;Sales,Business Development Executive,38,826000
+3.9,Diploma,Communication;Negotiation;CRM,Business Development Executive,27,405000
+1.2,Masters,Sales;Excel;Communication;Negotiation,Business Development Executive,25,448000
+5.0,Masters,Excel;Communication;Sales;Negotiation,Business Development Executive,27,627000
+2.9,Masters,Sales,Business Development Executive,24,475000
+2.9,MBA,Excel;Sales;Communication;CRM,Business Development Executive,27,564000
+2.1,Bachelors,Networking;Recruitment,Placement Coordinator,24,367000
+7.8,Bachelors,Excel;CRM;Communication;Recruitment;Payroll,HR,30,558000
+1.8,MBA,Communication;SEO;Sales;CRM,Sales & Marketing,25,540000
+1.3,Masters,SQL;Machine Learning;Communication;Web Development;Java,Technical Trainers,22,592000
+4.5,Bachelors,SEO,Sales & Marketing,26,504000
+5.3,MBA,Python;Machine Learning;Java;Communication,Technical Trainers,29,761000
+3.0,Masters,Machine Learning;Java;Python;Web Development,Technical Trainers,25,727000
+3.8,Masters,Excel;Networking;Communication;CRM;Recruitment,Placement Coordinator,29,474000
+5.1,Bachelors,Communication;Machine Learning;Web Development;SQL;Java,Technical Trainers,26,742000
+5.5,Bachelors,CRM,Sales & Marketing,31,512000
+16.8,Masters,Excel;Tally;SQL,Finance & Operations,41,1096000
+4.3,Bachelors,Recruitment;CRM,Placement Coordinator,27,494000
+7.1,MBA,Communication,Business Development Executive,32,691000
+2.4,Bachelors,Communication;Digital Marketing;CRM,Sales & Marketing,25,426000
+2.4,MBA,Networking;Excel;Recruitment,Placement Coordinator,23,444000
+0.5,Masters,Communication,Technical Trainers,22,432000
+1.5,Bachelors,Accounting,Finance & Operations,23,452000
+1.8,Bachelors,CRM;Communication;Digital Marketing,Sales & Marketing,26,378000
+3.6,MBA,Java;Communication;Python,Technical Trainers,27,730000
+4.0,Masters,Communication,Business Development Executive,25,503000
+3.8,Bachelors,Communication;Excel,HR,24,444000
+6.4,Bachelors,Communication;CRM;Sales,Sales & Marketing,29,537000
+7.2,MBA,Communication;Recruitment,HR,32,648000
+0.6,Bachelors,Web Development;Communication;SQL,Technical Trainers,24,423000
+3.8,Bachelors,Recruitment;Payroll;Excel;CRM,HR,29,456000
+2.1,Bachelors,SQL;Python;Machine Learning;Java;Web Development,Technical Trainers,23,659000
+16.6,Bachelors,SQL;Tally,Finance & Operations,41,857000
+6.1,MBA,Excel,Finance & Operations,32,657000
+7.6,Masters,Networking;CRM;Recruitment;Excel,Placement Coordinator,30,641000
+2.5,Masters,SQL;Accounting;Tally,Finance & Operations,26,573000
+4.5,MBA,SQL;Python;Machine Learning;Java;Web Development,Technical Trainers,30,756000
+2.5,Bachelors,Communication;CRM;Excel;Payroll;Recruitment,HR,25,465000
+1.9,Bachelors,Communication;Java,Technical Trainers,25,477000
+5.8,Bachelors,Communication,Placement Coordinator,27,429000
+9.3,MBA,Communication;CRM,HR,34,730000
+6.3,Bachelors,Sales;Communication,Sales & Marketing,29,561000
+0.6,Masters,Sales;CRM;SEO,Sales & Marketing,26,397000
+7.8,Masters,Negotiation;Sales;CRM,Business Development Executive,32,717000
+1.0,Bachelors,Tally;Accounting,Finance & Operations,25,351000
+7.1,Masters,Excel;CRM,Placement Coordinator,33,571000
+7.5,MBA,Sales;Digital Marketing;CRM;Communication;SEO,Sales & Marketing,32,719000
+12.0,MBA,Machine Learning;Web Development;Communication,Technical Trainers,33,1011000
+8.6,Masters,Networking;CRM;Excel;Communication;Recruitment,Placement Coordinator,32,621000
+7.7,Bachelors,Tally;Communication,Finance & Operations,30,610000
+2.2,Diploma,Recruitment,Placement Coordinator,23,325000
+5.0,Bachelors,Communication;SQL;Accounting,Finance & Operations,30,513000
+5.4,Masters,SEO,Sales & Marketing,28,620000
+20.4,Bachelors,Machine Learning;SQL;Java;Communication;Web Development,Technical Trainers,42,1300000
+2.4,Bachelors,Recruitment;CRM;Communication,HR,27,437000
+5.4,Bachelors,Communication;SQL;Machine Learning,Technical Trainers,26,706000
+3.4,Bachelors,Excel;Tally;Accounting;Communication;SQL,Finance & Operations,24,563000
+6.2,Bachelors,Communication;CRM;Recruitment,HR,28,546000
+8.1,Masters,Web Development;Python,Technical Trainers,33,791000
+11.4,Bachelors,SQL;Machine Learning;Web Development;Communication;Python,Technical Trainers,32,1102000
+14.2,Bachelors,Communication,Technical Trainers,36,999000
+7.5,Bachelors,CRM;Sales,Sales & Marketing,29,580000
+5.0,Diploma,CRM;Recruitment,Placement Coordinator,29,422000
+7.6,Bachelors,Python;Web Development;Java;Communication,Technical Trainers,31,808000
+15.3,MBA,Excel;Negotiation;Sales;CRM,Business Development Executive,39,936000
+4.4,Bachelors,SQL,Finance & Operations,25,564000
+2.3,Bachelors,Communication;Negotiation;Excel;CRM;Sales,Business Development Executive,28,435000
+0.5,MBA,Excel;Communication,HR,22,454000
+1.5,Bachelors,Tally,Finance & Operations,26,394000
+3.7,Masters,Sales;CRM;Digital Marketing;SEO,Sales & Marketing,27,584000
+3.9,Bachelors,CRM;Networking;Excel;Communication,Placement Coordinator,25,466000
+11.0,MBA,Accounting;Excel;Communication,Finance & Operations,37,844000
+1.0,Masters,Python;SQL;Communication;Machine Learning;Java,Technical Trainers,27,531000
+0.7,Masters,CRM,Business Development Executive,24,397000
+10.3,Bachelors,Sales;Communication;Digital Marketing;CRM;SEO,Sales & Marketing,33,746000
+7.2,MBA,Accounting;Tally,Finance & Operations,32,736000
+3.4,Bachelors,Excel;Communication,HR,29,419000
+6.5,MBA,CRM;Digital Marketing;SEO,Sales & Marketing,27,661000
+9.2,Masters,Communication;Sales;SEO;Digital Marketing,Sales & Marketing,30,624000
+5.8,Masters,Java,Technical Trainers,31,683000
+4.1,Bachelors,SQL;Communication;Tally;Accounting;Excel,Finance & Operations,28,555000
+7.5,Bachelors,Python;Communication;Machine Learning;Java;SQL,Technical Trainers,29,846000
+10.5,Bachelors,Communication;Sales;Digital Marketing;SEO;CRM,Sales & Marketing,36,700000
+2.3,Bachelors,Web Development;Communication;Machine Learning,Technical Trainers,24,560000
+5.5,Bachelors,SEO,Sales & Marketing,29,559000
+7.3,MBA,Python,Technical Trainers,28,791000
+2.4,MBA,Recruitment;Networking,Placement Coordinator,23,488000
+7.8,MBA,CRM;Communication,Placement Coordinator,31,617000
+7.7,Bachelors,Communication;SEO;Sales;Digital Marketing;CRM,Sales & Marketing,31,689000
+5.1,Masters,SEO,Sales & Marketing,29,541000
+2.2,Bachelors,Web Development;Communication,Technical Trainers,28,435000
+7.7,Bachelors,Machine Learning;Communication;Python;Java;SQL,Technical Trainers,33,857000
+1.3,Masters,Sales;Communication,Sales & Marketing,23,462000
+12.1,Bachelors,Communication;Machine Learning;Web Development;Python,Technical Trainers,35,1006000
+5.5,MBA,Java;SQL,Technical Trainers,29,658000
+7.8,Diploma,Sales,Business Development Executive,28,503000
+1.2,MBA,Web Development;Communication;Machine Learning;Python,Technical Trainers,23,598000
+10.9,Bachelors,Machine Learning;Java;Python,Technical Trainers,33,949000
+1.3,Bachelors,CRM;Recruitment;Excel,HR,25,358000
+15.6,Bachelors,Recruitment,HR,40,740000
+13.2,MBA,CRM;Communication;Sales,Sales & Marketing,34,875000
+2.0,Masters,Communication;CRM,Placement Coordinator,27,445000
+1.3,Bachelors,Recruitment,Placement Coordinator,25,345000
+6.0,Masters,Python;Java;Web Development;Communication,Technical Trainers,30,826000
+5.4,Masters,Negotiation;Communication;Excel,Business Development Executive,27,523000
+10.0,Bachelors,Excel;Recruitment;CRM;Networking,Placement Coordinator,32,575000
+8.6,MBA,Python;Communication;Java,Technical Trainers,31,958000
+3.1,Bachelors,Accounting;Tally,Finance & Operations,28,477000
+1.2,Diploma,Recruitment;Communication;Excel,HR,24,303000
+4.4,MBA,Communication,Finance & Operations,25,632000
+7.2,Masters,Excel;Negotiation,Business Development Executive,32,585000
+14.0,PhD,Accounting;Communication;Tally;Excel;SQL,Finance & Operations,36,997000
+2.5,MBA,SQL;Python,Technical Trainers,23,600000
+7.9,Bachelors,Excel;SQL;Tally,Finance & Operations,29,635000
+11.2,Bachelors,Communication;CRM;Digital Marketing,Sales & Marketing,33,828000
+4.2,Masters,Negotiation;Excel;Sales,Business Development Executive,30,535000
+2.8,Masters,Excel;Communication;Negotiation,Business Development Executive,28,448000
+1.2,Bachelors,Negotiation;Sales;CRM;Communication;Excel,Business Development Executive,22,359000
+0.8,Bachelors,Digital Marketing,Sales & Marketing,26,349000
+4.6,Bachelors,CRM;Excel,Business Development Executive,30,470000
+13.8,Bachelors,Web Development;SQL,Technical Trainers,37,943000
+6.1,Bachelors,Sales;Excel,Business Development Executive,28,547000
+2.9,Bachelors,Excel;SQL,Finance & Operations,25,434000
+5.1,Bachelors,Web Development;SQL,Technical Trainers,26,661000
+2.8,Diploma,Sales;CRM;Communication;Digital Marketing;SEO,Sales & Marketing,26,467000
+5.4,Masters,SQL;Tally,Finance & Operations,30,577000
+4.5,Bachelors,CRM;Recruitment,HR,25,483000
+4.0,Bachelors,Communication,HR,29,453000
+2.9,Bachelors,Excel,Placement Coordinator,25,364000
+4.0,Bachelors,Payroll,HR,30,448000
+2.1,Bachelors,Payroll;Communication;Recruitment,HR,26,454000
+2.3,Masters,SEO;CRM;Digital Marketing,Sales & Marketing,24,472000
+1.5,Masters,Communication;CRM;Excel;Recruitment,HR,27,443000
+2.0,Diploma,Excel;Communication,HR,27,367000
+2.0,Bachelors,SEO;CRM,Sales & Marketing,26,411000
+2.0,Masters,Communication;Excel,HR,24,431000
+12.1,Bachelors,Java,Technical Trainers,33,861000
+11.3,PhD,Recruitment;CRM;Communication;Payroll;Excel,HR,33,788000
+5.1,Bachelors,Negotiation;Sales;CRM,Business Development Executive,29,539000
+5.3,Diploma,SQL;Communication;Excel;Tally,Finance & Operations,30,556000
+12.4,Diploma,Accounting;Tally;SQL;Communication;Excel,Finance & Operations,35,779000
+4.9,Bachelors,Communication,Finance & Operations,25,568000
+3.5,Masters,Web Development;Communication;Machine Learning;Python,Technical Trainers,24,645000
+6.0,Bachelors,Communication;SQL;Accounting;Excel,Finance & Operations,30,634000
+8.3,Bachelors,Communication,Technical Trainers,34,742000
+7.4,MBA,Communication;Excel;Negotiation;Sales;CRM,Business Development Executive,28,711000
+6.2,Bachelors,SEO;Digital Marketing;CRM;Communication;Sales,Sales & Marketing,31,594000
+6.6,Bachelors,Sales;CRM;Excel;Communication,Business Development Executive,32,573000
+4.9,Bachelors,Negotiation;Communication;Sales,Business Development Executive,29,529000
+6.3,Masters,Machine Learning;Python,Technical Trainers,30,694000
+17.1,Bachelors,Sales;CRM;Excel;Communication;Negotiation,Business Development Executive,42,867000
+7.2,Masters,SEO,Sales & Marketing,29,572000
+6.8,MBA,Python;SQL,Technical Trainers,29,813000
+4.6,MBA,CRM;Negotiation,Business Development Executive,26,587000
+12.3,MBA,Machine Learning;Java;SQL;Web Development;Communication,Technical Trainers,35,1151000
+4.7,Bachelors,Tally;Accounting,Finance & Operations,29,581000
+3.5,Bachelors,CRM;Communication;Payroll,HR,26,477000
+6.1,Bachelors,Python;SQL;Web Development;Machine Learning;Communication,Technical Trainers,29,774000
+10.5,Bachelors,Digital Marketing;Sales;CRM;Communication;SEO,Sales & Marketing,34,767000
+4.2,Bachelors,Recruitment;CRM;Payroll,HR,26,527000
+5.1,Bachelors,Communication;Accounting;SQL,Finance & Operations,27,559000
+10.6,Masters,CRM;Communication;Sales,Business Development Executive,34,695000
+6.2,Bachelors,Digital Marketing;Sales,Sales & Marketing,29,571000
+7.4,Bachelors,Machine Learning;Java;Communication,Technical Trainers,28,738000
+3.5,Bachelors,Negotiation;Communication;Sales;CRM;Excel,Business Development Executive,24,499000
+20.9,Masters,Communication,Technical Trainers,41,1273000
+4.5,MBA,Excel;Tally;SQL,Finance & Operations,28,620000
+18.2,Bachelors,Accounting;Communication;SQL,Finance & Operations,41,1041000
+2.6,Bachelors,SQL,Finance & Operations,24,470000
+6.9,MBA,Communication;Digital Marketing,Sales & Marketing,27,631000
+2.5,Bachelors,Excel,Finance & Operations,26,424000
+1.4,Bachelors,Communication;Networking;Excel,Placement Coordinator,27,350000
+2.2,Bachelors,Digital Marketing;Communication;CRM;SEO,Sales & Marketing,26,451000
+3.5,Masters,Communication;Java;Web Development,Technical Trainers,25,672000
+7.5,Masters,CRM,Placement Coordinator,31,570000
+9.7,Bachelors,Payroll;Excel;Recruitment;Communication,HR,30,632000
+2.0,Bachelors,Java;Web Development;Python,Technical Trainers,27,472000
+2.8,Bachelors,Communication,Technical Trainers,28,478000
+2.6,Bachelors,SQL,Technical Trainers,24,509000
+2.1,Bachelors,SQL,Finance & Operations,27,413000
+7.1,Bachelors,Sales;CRM;Negotiation;Communication;Excel,Business Development Executive,31,628000
+2.6,Diploma,Payroll;Excel;CRM,HR,26,387000
+2.0,Masters,Excel,Placement Coordinator,25,390000
+5.1,Bachelors,Sales;Digital Marketing,Sales & Marketing,30,496000
+1.8,MBA,Recruitment;Excel;Networking,Placement Coordinator,26,400000
+2.4,Bachelors,Digital Marketing;Sales;SEO;CRM,Sales & Marketing,24,464000
+3.2,Masters,Communication,Finance & Operations,29,516000
+9.3,PhD,Java;Web Development;Python;Communication,Technical Trainers,34,1050000
+2.0,MBA,Sales;Communication,Sales & Marketing,23,496000
+1.3,Bachelors,Communication;Java,Technical Trainers,22,439000
+9.4,MBA,Web Development,Technical Trainers,35,883000
+5.6,Bachelors,CRM;Recruitment;Networking;Communication;Excel,Placement Coordinator,27,469000
+12.2,Bachelors,Tally;Excel;SQL;Communication,Finance & Operations,34,831000
+5.7,MBA,Digital Marketing;SEO,Sales & Marketing,31,632000
+1.1,Diploma,Machine Learning;Java;SQL;Python,Technical Trainers,27,517000
+5.4,Masters,Communication;CRM;Digital Marketing;Sales;SEO,Sales & Marketing,27,621000
+0.5,MBA,Sales;Excel;Communication;CRM,Business Development Executive,22,436000
+3.6,MBA,Excel;Accounting,Finance & Operations,26,545000
